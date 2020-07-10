@@ -30,7 +30,7 @@ const AddNewDeckModal = (props) => {
                 props?.CloseModal()
             }}
         >
-            <View style={{ backgroundColor: 'white', height: "100%" }}>
+            <View style={{ backgroundColor: 'white', height: SCREEN_HEIGHT }}>
 
 
                 <AppBar action={() => props?.CloseModal()} icon="close" title="ADD NEW CARD" />
