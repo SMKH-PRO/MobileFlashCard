@@ -29,7 +29,7 @@ const home = (props) => {
     return (
 
         <View style={{height:WINDOW_HEIGHT-30}} >
-            <AppBar action={() => props?.navigation?.toggleDrawer()} icon="menu" title="FUCK HARD" />
+            <AppBar action={() => props?.navigation?.toggleDrawer()} icon="menu" title="MFC - Home" />
           
 
             <ScrollView>
