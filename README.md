@@ -11,6 +11,6 @@ Assuming that you already have React-Native CLI Enviroment, You've to run these 
 1. Open your emulator.
 2. Now Open Start.bat file or write `npm run android` . 
 
-Platform
+## Platform
 This app was developed and tested using react-native-cli running on Android 9 (Emulator).
 
